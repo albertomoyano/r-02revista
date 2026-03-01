@@ -457,6 +457,23 @@
             min-width: 0;
           }
 
+          /* BARRA DE TIPO DE ARTÍCULO */
+          .article-type-bar {
+            background: var(--color-accent);
+            color: #ffffff;
+            font-family: var(--font-sans);
+            font-size: var(--text-base);
+            font-weight: 700;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            padding: 0 1rem;
+            margin-bottom: 1.25rem;
+            border-radius: var(--radius);
+          }
+
           .article-title {
             font-family: var(--font-serif);
             font-size: var(--text-3xl);
@@ -1033,6 +1050,7 @@
             </div>
          </aside>
          <main class="col-center">
+            <div class="article-type-bar">editorial</div>
             <h1 class="article-title">Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar</h1>
             <div class="article-trans-title">Delirium in Cardiac Surgery: The Brain, An Organ We Must Not Overlook</div>
             <div class="article-body">
