@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Article Archiving and Interchange DTD v1.4//EN" "https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="editorial"
+         xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">0034-7000</journal-id>
+         <journal-title-group>
+            <journal-title>Revista Argentina de Cardiología</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Rev Argent Cardiol</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0034-7000</issn>
+         <publisher>
+            <publisher-name>bq</publisher-name>
+            <publisher-loc>bq, Argentina</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.7775/rac.es.v93.i6.20963</article-id>
+         <related-article related-article-type="commentary-article"
+                          xlink:href="https://doi.org/10.7775/rac.es.v93.i5.20949"
+                          ext-link-type="doi"
+                          journal-id="Rev Argent Cardiol"
+                          journal-id-type="custom"
+                          publication-year="2025"
+                          vol="93"
+                          fpage="419"
+                          lpage="426"/>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>editorial</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Delirium in Cardiac Surgery: The Brain, An Organ We Must Not Overlook</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Giorgini</surname>
+                  <given-names>Julio</given-names>
+               </name>
+               <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6069-6367</contrib-id>
+               <aff>
+                  <institution>Servicio de Cardiología, Hospital Alemán, Servicio de Trasplante Cardíaco, Hospital Argerich</institution>,
+          <city>Ciudad Autónoma de Buenos Aires</city>,
+          <country>Argentina</country>
+               </aff>
+               <email>jcgiorgini1971@gmail.com</email>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub-ppub">
+            <month>12</month>
+            <year>2025</year>
+         </pub-date>
+         <volume>93</volume>
+         <issue>6</issue>
+         <fpage>415</fpage>
+         <lpage>416</lpage>
+         <permissions>
+            <copyright-year>2025</copyright-year>
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+               <license-p>CC BY-SA 4.0</license-p>
+            </license>
+         </permissions>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>xml-lang</meta-name>
+               <meta-value>es</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="editorial" id="editorial-1">
+         <title>Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar</title>
+         <p>El delirium es una condición frecuente, particularmente en pacientes añosos que cursan internaciones en unidades de cuidados intensivos. Además de la edad, la pérdida de los ritmos de sueño-vigilia, la exposición prolongada a luz artificial, la permanencia durante días en un ambiente monótono y despersonalizado, y el uso de drogas sedantes –tanto para procedimientos como para el tratamiento de situaciones de ansiedad– constituyen factores predisponentes bien reconocidos. En muchos casos, estas intervenciones podrían evitarse o atenuarse mediante una comunicación más activa con los pacientes o modelos de cuidado más abiertos, que favorezcan el contacto familiar. Todos estos factores son tan conocidos y frecuentes que para quienes trabajan en unidades de cuidados críticos muchas veces permiten predecir, ya al ingreso al área, qué paciente probablemente se desorientará durante su internación.</p>
+         <p>Si a este contexto se suma la cirugía cardíaca, donde confluyen sedación, circulación extracorpórea, alteraciones del medio interno, anemia, sobrecarga hídrica, inflamación sistémica y ventilación mecánica, la aparición del delirium deja de ser una posibilidad remota. El problema es que el delirium no es un simple trastorno de la conciencia: es la expresión clínica de un cerebro vulnerable expuesto a una agresión sistémica, y su aparición marca un punto de inflexión pronóstica, con impacto demostrado sobre mortalidad, deterioro cognitivo persistente y utilización de recursos sanitarios. <xref ref-type="bibr" rid="bib-1262-ELY2004">1262-ELY2004</xref>, <xref ref-type="bibr" rid="bib-1298-INOUYE2014">1298-INOUYE2014</xref>, <xref ref-type="bibr" rid="bib-1299-WILSON2020">1299-WILSON2020</xref>
+         </p>
+         <p>En cirugía cardíaca, esta vulnerabilidad se potencia aún más. La circulación extracorpórea, la respuesta inflamatoria sistémica, las fluctuaciones hemodinámicas, la sedación profunda y la edad avanzada conforman un terreno particularmente propicio para la disfunción cerebral aguda. (4,5) Sin embargo, pese a este conocimiento acumulado, el delirium continúa siendo una entidad paradójica: clínicamente relevante, abundantemente estudiada y, al mismo tiempo, subdiagnosticada y con frecuencia mal tratada</p>
+         <p>En este número, Crippa y colaboradores presentan los resultados del registro multicéntrico ARGEN-CCV, que analiza la incidencia y los predictores de delirium en más de 1500 pacientes sometidos a cirugía cardiovascular en nuestro país. (6) El estudio reporta una incidencia global del 9,1% e identifica como predictores independientes a la enfermedad coronaria, la sepsis postoperatoria, la fibrilación auricular postoperatoria y la ventilación mecánica prolongada, con un modelo de riesgo de adecuada capacidad discriminativa. Se trata de evidencia local, multicéntrica y con un tamaño muestral inédito para nuestra región.</p>
+         <p>La literatura internacional en cirugía cardíaca describe incidencias que pueden alcanzar el 30%, con rangos extremadamente amplios que dependen del tipo de cirugía, la edad de la población y, fundamentalmente, del método diagnóstico empleado. (7,8) Esta variabilidad no constituye un detalle metodológico menor, sino que pone de manifiesto que el delirium es una entidad profundamente dependiente de cómo se la busca.</p>
+         <p>Cuando se amplía la mirada más allá de la cirugía cardíaca, la discrepancia resulta aún más evidente. En unidades de terapia intensiva generales, el delirium afecta a la mayoría de los pacientes bajo ventilación mecánica, con incidencias que superan el 60-70% cuando se utilizan herramientas de detección sistemática. <xref ref-type="bibr" rid="bib-1262-ELY2004">1262-ELY2004</xref>, <xref ref-type="bibr" rid="bib-1298-INOUYE2014">1298-INOUYE2014</xref> Incluso en pacientes no ventilados, las cifras raramente descienden por debajo del 20-30%. En unidades coronarias o de cuidados críticos cardiológicos, estudios contemporáneos describen incidencias de delirium en el orden del 14-20%, aun en poblaciones con menor carga quirúrgica que la cirugía cardíaca. (9,10)</p>
+         <p>En cirugía no cardíaca, procedimientos abdominales mayores, cirugía ortopédica y, en particular, fractura de cadera muestran incidencias que oscilan entre el 10% y el 37%, según la edad y la metodología diagnóstica empleada. (8, 11-13) Desde esta perspectiva, el 9,1% reportado por el ARGEN-CCV se sitúa claramente en el extremo inferior de lo publicado.</p>
+         <p>Esta discrepancia no debería interpretarse como una diferencia atribuible al tipo de paciente o procedimiento realizado, sino, como señalan los propios autores, como una cuestión metodológica. En el registro ARGEN-CCV, el diagnóstico de delirium se basó en la identificación clínica consignada por los equipos tratantes, sin la aplicación sistemática de herramientas validadas como CAMICU o ICDSC. (6) La experiencia acumulada en cuidados críticos es contundente: el delirium que no se pesquisa activamente puede no detectarse, <xref ref-type="bibr" rid="bib-1262-ELY2004">1262-ELY2004</xref>, <xref ref-type="bibr" rid="bib-1298-INOUYE2014">1298-INOUYE2014</xref>, <xref ref-type="bibr" rid="bib-1299-WILSON2020">1299-WILSON2020</xref> especialmente en sus formas hipoactivas, frecuentes y clínicamente relevantes.</p>
+         <p>Los factores de riesgo identificados por Crippa y cols. muestran una clara coherencia fisiopatológica. La sepsis postoperatoria, la ventilación mecánica prolongada y la fibrilación auricular postoperatoria emergen como marcadores robustos. (6-8) La sepsis representa el paradigma de la encefalopatía inflamatoria, donde la disfunción endotelial, las alteraciones microvasculares y la neuroinflamación convergen para comprometer la función cerebral. (14) La ventilación mecánica prolongada condensa sedación profunda, privación del sueño e inmovilidad, todos precipitantes reconocidos del delirium. <xref ref-type="bibr" rid="bib-1262-ELY2004">1262-ELY2004</xref>, <xref ref-type="bibr" rid="bib-1298-INOUYE2014">1298-INOUYE2014</xref> La fibrilación auricular postoperatoria, frecuentemente interpretada como una complicación eléctrica, puede leerse también como un marcador de inflamación sistémica e inestabilidad hemodinámica, asociación confirmada en metaanálisis recientes. (7)</p>
+         <p>De este modo, el delirium no aparece como un evento aislado, sino como el resultado clínico de una cascada de disfunción metabólica y orgánica. Aunque en el trabajo de Crippa la fragilidad no alcanzó significación estadística plena, resume vulnerabilidad neurológica y menor reserva fisiológica, y se ha asociado de manera consistente con mayor riesgo de delirium postoperatorio. (15)</p>
+         <p>El principal mérito del registro ARGEN-CCV no reside únicamente en las cifras reportadas, sino en la discusión que habilita. Incorporar la detección sistemática del delirium como parte del cuidado estándar permitiría estimar con mayor precisión su incidencia real, evaluar estrategias preventivas, optimizar el uso de sedantes y mejorar los desenlaces cognitivos. <xref ref-type="bibr" rid="bib-1262-ELY2004">1262-ELY2004</xref>, <xref ref-type="bibr" rid="bib-1298-INOUYE2014">1298-INOUYE2014</xref>, <xref ref-type="bibr" rid="bib-1299-WILSON2020">1299-WILSON2020</xref> (16)</p>
+         <p>El delirium no es un ruido de fondo del postoperatorio, sino una señal clínica de que aún existe un amplio margen de mejora. Optimizar el ambiente de internación, preservar el ritmo sueño-vigilia, minimizar estímulos innecesarios durante la noche, favorecer el contacto familiar, realizar una adecuada anamnesis de antecedentes psiquiátricos, utilizar herramientas diagnósticas validadas y conformar equipos interdisciplinarios dedicados al cuidado neurocognitivo del paciente cardiovascular (16) son pasos necesarios si se pretende reducir la incidencia de delirium en el postoperatorio de cirugía cardíaca.</p>
+         <sec sec-type="conflict-of-interest" id="conflict-of-interest-2">
+            <title>Declaración de conflicto de Intereses</title>
+            <p>Los autores declaran que no tienen conflicto de intereses.</p>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="bib-1262-ELY2004">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ely</surname>
+                     <given-names>EW</given-names>
+                  </name>
+                  <name>
+                     <surname>Shintani</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Truman</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Speroff</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Gordon</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <etal/>
+               </person-group>
+               <article-title>Delirium as a predictor of mortality in mechanically ventilated patients in the intensive care unit</article-title>
+               <source>JAMA</source>
+               <year>2004</year>
+               <volume>291</volume>
+               <issue>14</issue>
+               <fpage>1753</fpage>
+               <lpage>62</lpage>
+               <pub-id pub-id-type="doi">10.1001/jama.291.14.1753</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="bib-1298-INOUYE2014">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Inouye</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Westendorp</surname>
+                     <given-names>RG</given-names>
+                  </name>
+                  <name>
+                     <surname>Saczynski</surname>
+                     <given-names>JS</given-names>
+                  </name>
+               </person-group>
+               <article-title>Delirium in elderly people</article-title>
+               <source>Lancet</source>
+               <year>2014</year>
+               <issue>383</issue>
+               <fpage>911</fpage>
+               <lpage>22</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0140-6736(13)60688-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="bib-1299-WILSON2020">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Mart</surname>
+                     <given-names>MF</given-names>
+                  </name>
+                  <name>
+                     <surname>Cunningham</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Shehabi</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Girard</surname>
+                     <given-names>TD</given-names>
+                  </name>
+                  <name>
+                     <surname>MacLullich</surname>
+                     <given-names>AMJ</given-names>
+                  </name>
+                  <etal/>
+               </person-group>
+               <article-title>Delirium</article-title>
+               <source>Nat Rev Dis Primers</source>
+               <year>2020</year>
+               <volume>6</volume>
+               <issue>90</issue>
+               <pub-id pub-id-type="doi">10.1038/s41572-020-00223-4</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

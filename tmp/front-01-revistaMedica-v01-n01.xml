@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">0034-7000</journal-id>
+    <journal-title-group>
+      <journal-title>Revista Argentina de Cardiología</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Rev Argent Cardiol</abbrev-journal-title>
+    </journal-title-group>
+    <issn pub-type="epub">0034-7000</issn>
+    <publisher>
+      <publisher-name>bq</publisher-name>
+      <publisher-loc>bq, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-id pub-id-type="doi">10.7775/rac.es.v93.i6.20963</article-id>
+    <related-article related-article-type="commentary-article" xlink:href="https://doi.org/10.7775/rac.es.v93.i5.20949" ext-link-type="doi" journal-id="Rev Argent Cardiol" journal-id-type="custom" publication-year="2025" vol="93" fpage="419" lpage="426"/>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>editorial</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar</article-title>
+      <trans-title-group xml:lang="en">
+        <trans-title>Delirium in Cardiac Surgery: The Brain, An Organ We Must Not Overlook</trans-title>
+      </trans-title-group>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" corresp="yes">
+        <name>
+          <surname>Giorgini</surname>
+          <given-names>Julio</given-names>
+        </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6069-6367</contrib-id>
+        <aff>
+          <institution>Servicio de Cardiología, Hospital Alemán, Servicio de Trasplante Cardíaco, Hospital Argerich</institution>,
+          <city>Ciudad Autónoma de Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
+        <email>jcgiorgini1971@gmail.com</email>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>12</month>
+      <year>2025</year>
+    </pub-date>
+    <volume>93</volume>
+    <issue>6</issue>
+    <fpage>415</fpage>
+    <lpage>416</lpage>
+    <permissions>
+      <copyright-year>2025</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+        <license-p>CC BY-SA 4.0</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>
