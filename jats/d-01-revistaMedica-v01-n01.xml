@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>bq</publisher>
+      <journalTitle>Revista Argentina de Cardiología</journalTitle>
+      <eissn>0034-7000</eissn>
+      <publicationDate>2025-12</publicationDate>
+      <volume>93</volume>
+      <issue>6</issue>
+      <startPage>415</startPage>
+      <endPage>416</endPage>
+      <doi>10.7775/rac.es.v93.i6.20963</doi>
+      <documentType>editorial</documentType>
+      <title language="spa">Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar</title>
+      <authors>
+         <author>
+            <name>Giorgini, Julio</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0000-0002-6069-6367</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Servicio de Cardiología, Hospital Alemán, Servicio de Trasplante Cardíaco, Hospital Argerich</affiliationName>
+      </affiliationsList>
+      <!-- ADVERTENCIA: fullTextUrl ausente. Pasar como parámetro Saxon
+            -param:fullTextUrl https://url-del-articulo
+            o agregar custom-meta 'fullTextUrl' en el canónico. -->
+   </record>
+</records>

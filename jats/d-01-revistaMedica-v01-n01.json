@@ -1,0 +1,26 @@
+{
+  bibjson: {
+    title: Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar,
+    year: 2025,
+    month: diciembre,
+    identifier: [
+      {type: eissn, id: 0034-7000},
+      {type: doi, id: 10.7775/rac.es.v93.i6.20963}
+    ],
+    journal: {
+      title: Revista Argentina de Cardiología,
+      publisher: bq,
+      volume: 93,
+      number: 6,
+      start_page: 415,
+      end_page: 416
+    },
+    link: [
+      {
+        type: fulltext,
+        url: https://www.edicionesimagomundi.com/,
+        content_type: text/html
+      }
+    ]
+  }
+}
