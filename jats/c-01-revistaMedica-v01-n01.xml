@@ -11,24 +11,16 @@
             <journal-title>Revista Argentina de Cardiología</journal-title>
             <abbrev-journal-title abbrev-type="publisher">Rev Argent Cardiol</abbrev-journal-title>
          </journal-title-group>
+         <issn pub-type="ppub">0034-7000</issn>
          <issn pub-type="epub">0034-7000</issn>
          <publisher>
-            <publisher-name>bq</publisher-name>
-            <publisher-loc>bq, Argentina</publisher-loc>
+            <publisher-name>@</publisher-name>
+            <publisher-loc>@, Argentina</publisher-loc>
          </publisher>
       </journal-meta>
       <article-meta>
          <article-id pub-id-type="doi">10.7775/rac.es.v93.i6.20963</article-id>
-         <related-article related-article-type="commentary-article"
-                          xlink:href="https://doi.org/10.7775/rac.es.v93.i5.20949"
-                          ext-link-type="doi"
-                          journal-id="Rev Argent Cardiol"
-                          journal-id-type="custom"
-                          publication-year="2025"
-                          vol="93"
-                          issue="5"
-                          fpage="419"
-                          lpage="426"/>
+         <article-id pub-id-type="pmid">@</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
                <subject>editorial</subject>
@@ -36,12 +28,13 @@
          </article-categories>
          <title-group>
             <article-title>Delirio en cirugía cardíaca: el cerebro, ese órgano que no debemos olvidar</article-title>
+            <subtitle>@</subtitle>
             <trans-title-group xml:lang="en">
                <trans-title>Delirium in Cardiac Surgery: The Brain, An Organ We Must Not Overlook</trans-title>
             </trans-title-group>
          </title-group>
          <contrib-group>
-            <contrib contrib-type="author" corresp="yes">
+            <contrib contrib-type="author" id="a12" corresp="yes">
                <name>
                   <surname>Giorgini</surname>
                   <given-names>Julio</given-names>
@@ -56,20 +49,67 @@
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
-            <month>12</month>
-            <year>2025</year>
+            <year>2026</year>
+            <month>03</month>
+            <day>27</day>
          </pub-date>
          <volume>93</volume>
          <issue>6</issue>
+         <supplement>@</supplement>
          <fpage>415</fpage>
          <lpage>416</lpage>
+         <history>
+            <date date-type="received">
+               <day>27</day>
+               <month>03</month>
+               <year>2026</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>27</day>
+               <month>03</month>
+               <year>2026</year>
+            </date>
+            <date date-type="accepted">
+               <day>27</day>
+               <month>03</month>
+               <year>2026</year>
+            </date>
+            <date date-type="pub">
+               <day>27</day>
+               <month>03</month>
+               <year>2026</year>
+            </date>
+         </history>
          <permissions>
             <copyright-year>2025</copyright-year>
+            <copyright-holder>@</copyright-holder>
             <license license-type="open-access"
                      xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
                <license-p>CC BY-SA 4.0</license-p>
             </license>
          </permissions>
+         <related-article related-article-type="companion"
+                          xlink:href="https://doi.org/10.7775/rac.es.v93.i5.20949"
+                          ext-link-type="doi"
+                          journal-id="Rev Argent Cardiol"
+                          journal-id-type="custom"
+                          vol="93"
+                          issue="5"/>
+         <abstract xml:lang="es">
+            <p>@</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <p>@</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es" kwd-group-type="author-generated">
+            <kwd>@</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en" kwd-group-type="author-generated">
+            <kwd>@</kwd>
+         </kwd-group>
+         <funding-group>
+            <funding-statement>@</funding-statement>
+         </funding-group>
          <custom-meta-group>
             <custom-meta>
                <meta-name>xml-lang</meta-name>

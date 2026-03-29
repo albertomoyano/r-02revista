@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta-articulo>
+  <identidad>
+    <doi>10.7775/rac.es.v93.i6.20963</doi>
+    <url-texto-completo>@</url-texto-completo>
+  </identidad>
+  <revista>
+  <revista>
+    <ror-editorial>@</ror-editorial>
+  </revista>
+  </revista>
+  <autores>
+    <autor ref="a12">
+      <credit>Methodology; Formal analysis</credit>
+    </autor>
+  </autores>
+</meta-articulo>
